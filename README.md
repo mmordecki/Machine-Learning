@@ -1,3 +1,5 @@
+markdown
+
 # Machine Learning Portfolio - Mariusz Mordecki
 Zbiór projektów i zadań zrealizowanych podczas intensywnego kursu Machine Learning. Repozytorium dokumentuje proces nauki od klasycznej statystyki po nowoczesne sieci neuronowe.
 
@@ -11,4 +13,6 @@ Zbiór projektów i zadań zrealizowanych podczas intensywnego kursu Machine Lea
 * **Klasyczne ML:** Regresja logistyczna, Drzewa Decyzyjne, Random Forest, SVM.
 * **Uczenie nienadzorowane:** Klasteryzacja (K-Means, DBSCAN), PCA.
 * **Przetwarzanie danych:** Feature Engineering, obsługa brakujących danych, skalowanie.
+
+
 
